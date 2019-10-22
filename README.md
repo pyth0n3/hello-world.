@@ -1,2 +1,1 @@
-# hello-world.
-Intrested in reverse engineering and DFIR.
+I am a reverse engineer and a tainee in DFIR, i wouldlike to share knowledge in these areas since it's what i do for job. I have been in the filed of computer security for a perion of fours year and my passion is rverse engineering and forensic.
